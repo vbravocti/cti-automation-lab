@@ -5,6 +5,13 @@ El siguiente documento recoge el desarrollo y código utilizado de las siguiente
 * Una infraestructura orquestada y automatizada de recolección, filtrado, generación de inteligencia y alertado basada las plataformas MISP, Wazuh y Telegram
 * Un agente desarrollado en Python que automatiza la traducción de informes de inteligencia de amenazas (CTI) en reglas de detección nativas para la plataforma Wazuh, extrayendo indicadores de compromiso (IoCs) y patrones desde documentos de texto o PDF, generando el código XML.
 
+## Documentación
+
+- 📄 [Memoria completa del TFM](docs/Ciberamenazas-sector-transporte-y-logistico-TFM.pdf)
+- 📊 [Anexo — Estadísticas de canales de Telegram](docs/Estadisticas-Telegram.pdf)
+- 📊 [Anexo — Índice de confianza de fuentes](docs/Indice-de-confianza.pdf)
+- 📥 [Informes de entrada utilizados por el agente](docs/Informes-para-el-agente.pdf)
+
 ---
 
 # Despliegue de Infraestructura CTI: MISP, Wazuh y Telegram
@@ -272,3 +279,12 @@ generada.
 Este proyecto se distribuye bajo la licencia MIT. Consulta el fichero `LICENSE`
 para más detalles.
 
+## Autores
+
+Trabajo Fin de Máster del Máster en Ciberinteligencia (5.ª edición) — DKS Digital Knowledge School.
+
+- Víctor Bravo García
+- Miguel Ángel Maldonado Vela
+- Miguel Alvariño Blanes
+
+Tutor: Iván Portillo Morales.
