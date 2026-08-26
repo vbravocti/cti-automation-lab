@@ -1,0 +1,20 @@
+# Secretos: NUNCA subir. Copiar los .example y rellenar en local.
+.env
+.secrets.env
+*.key
+*.pem
+credentials*
+# Datos de ejecucion
+pending_review/
+inputs/
+rules_repo.json
+logs/
+*.log
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Sistema
+.DS_Store
+Thumbs.db
